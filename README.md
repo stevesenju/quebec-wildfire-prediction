@@ -28,7 +28,7 @@ Dataset is publicly available on [Kaggle]https://www.kaggle.com/datasets/tashast
 5. **Days Since Rain (`DAYS_SINCE_RAIN`):** Fuel ignition susceptibility.
 
 ---
-# This project is built strictly for educational and portfolio demonstration purposes. It is not an official early-warning system. Always refer to official SOPFEU guidelines and alerts for official fire safety decisions.
+### This project is built strictly for educational and portfolio demonstration purposes. It is not an official early-warning system. Always refer to official SOPFEU guidelines and alerts for official fire safety decisions.
 
 
 ##Quickstart
